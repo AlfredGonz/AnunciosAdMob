@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "215066922961",
+    "firebase_url": "https://anunciosadmob.firebaseio.com",
+    "project_id": "anunciosadmob",
+    "storage_bucket": "anunciosadmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215066922961:android:26d8b027c4914162",
+        "android_client_info": {
+          "package_name": "com.example.alfredo.anunciosadmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215066922961-bnp556epie1r9gdgd7sii73tj14t7i9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alfredo.anunciosadmod",
+            "certificate_hash": "873d383e32f6b721dcac31be586d1aef865917b2"
+          }
+        },
+        {
+          "client_id": "215066922961-821kvp7h2tpmclevpfrobp5rn6mdc1j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2zOIoXwkChYnTMQq1vVdOAu4Zth9MQEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215066922961-821kvp7h2tpmclevpfrobp5rn6mdc1j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
